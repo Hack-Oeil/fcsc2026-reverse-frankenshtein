@@ -22,8 +22,6 @@ Mais voici comment installer ce CTF manuellement :
 
 > cd fcsc2026-reverse-frankenshtein
 
-> docker compose -f docker-compose-default.yml up
-
 -----------
 
 ## Sur le site officiel hackropole.fr
