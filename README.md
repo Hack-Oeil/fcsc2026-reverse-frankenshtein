@@ -1,4 +1,4 @@
-# FCSC 2025 Frankenshtein
+# FCSC 2026 Frankenshtein
 
 Quelle est cette créature ?
 
